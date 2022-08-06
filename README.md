@@ -1,2 +1,2 @@
 # Taller
-Algo
+Esto es una descripción de prueba
